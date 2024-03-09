@@ -76,8 +76,8 @@ const Account = () => {
                     InputProps={{
                       style: { color: isDarkMode ? '#fff' : '#000' },
                       endAdornment: (
-                        <InputAdornment position="end">
-                          <IconButton onClick={handleTogglePasswordVisibility}>
+                        <InputAdornment position="end" >
+                          <IconButton onClick={handleTogglePasswordVisibility} style={{ backgroundColor: isDarkMode ? '#333' : 'inherit', color: isDarkMode ? '#fff' : 'inherit' }} >
                             {showPassword ? <VisibilityOff /> : <Visibility />}
                           </IconButton>
                         </InputAdornment>
@@ -97,7 +97,7 @@ const Account = () => {
                       style: { color: isDarkMode ? '#fff' : '#000' },
                       endAdornment: (
                         <InputAdornment position="end">
-                          <IconButton onClick={handleTogglePasswordVisibility}>
+                          <IconButton onClick={handleTogglePasswordVisibility} style={{ backgroundColor: isDarkMode ? '#333' : 'inherit', color: isDarkMode ? '#fff' : 'inherit' }} >
                             {showPassword ? <VisibilityOff /> : <Visibility />}
                           </IconButton>
                         </InputAdornment>
@@ -117,7 +117,7 @@ const Account = () => {
                       style: { color: isDarkMode ? '#fff' : '#000' },
                       endAdornment: (
                         <InputAdornment position="end">
-                          <IconButton onClick={handleTogglePasswordVisibility}>
+                          <IconButton onClick={handleTogglePasswordVisibility} style={{ backgroundColor: isDarkMode ? '#333' : 'inherit', color: isDarkMode ? '#fff' : 'inherit' }} >
                             {showPassword ? <VisibilityOff /> : <Visibility />}
                           </IconButton>
                         </InputAdornment>
