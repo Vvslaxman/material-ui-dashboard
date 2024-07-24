@@ -5,8 +5,8 @@
 
 This project involves formulating a dynamic and interactive React Dashboard using Material UI, featuring various components and real-time data operations to enhance user experience and engagement.
 
-![React Dashboard](path/to/your/image.png)
 
+![React Dashboard](output_image.png)
 ## Live Demo
 
 Check out the live demo: [React Dashboard Live](https://basic-mui-dashboard.netlify.app/)
