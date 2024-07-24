@@ -122,7 +122,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - The `react-countup` and Zustand libraries for dynamic charts and state management.
 - Firebase Firestore for real-time data operations.
-- Inspiration and guidance from the React and Material UI communities.
+- Utilized from the React and Material UI communities.
 
 ## Contact
 
