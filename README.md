@@ -126,6 +126,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the repository owner.
+For any questions or suggestions, please open an issue or contact [Vvslaxman](mailto:vvslaxman14@gmail.com).
 
 
