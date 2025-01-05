@@ -3,7 +3,7 @@
 
 # React Dashboard
 
-This project involves formulating a dynamic and interactive React Dashboard using Material UI, featuring various components and real-time data operations to enhance user experience and engagement.
+This project involves formulating a dynamic and interactive React Dashboard completely using Material UI, featuring various components and real-time data operations to enhance user experience and engagement, a focus on real time firebase operations.
 
 
 ![React Dashboard](output_image.png)
